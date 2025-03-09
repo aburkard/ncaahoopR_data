@@ -1,0 +1,11 @@
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+5107309,C. Achara,25,5,8,0,0,0,0,3,3,6,0,0,1,4,2,10,Houston Christian,TCU,FALSE,TRUE,2023-11-27,A
+4897352,T. Moore,27,1,8,1,6,2,3,0,4,4,3,0,0,1,2,5,Houston Christian,TCU,FALSE,TRUE,2023-11-27,A
+5176563,J. Alvarez,29,10,20,1,3,0,0,1,2,3,2,2,0,4,1,21,Houston Christian,TCU,FALSE,TRUE,2023-11-27,A
+4897576,B. Maring,35,4,10,0,0,0,0,2,9,11,3,3,0,3,5,8,Houston Christian,TCU,FALSE,TRUE,2023-11-27,A
+4897953,M. Greene,23,2,5,1,1,0,0,1,3,4,7,1,0,3,2,5,Houston Christian,TCU,FALSE,TRUE,2023-11-27,A
+5176564,Po. Bazil,8,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Houston Christian,TCU,FALSE,FALSE,2023-11-27,A
+4707481,M. Imariagbe,22,4,5,0,0,1,1,1,2,3,1,0,1,2,0,9,Houston Christian,TCU,FALSE,FALSE,2023-11-27,A
+5107306,Pi. Bazil,24,0,6,0,3,3,4,0,1,1,1,0,0,3,0,3,Houston Christian,TCU,FALSE,FALSE,2023-11-27,A
+5106783,D. Capriotti,7,1,2,1,1,0,0,0,0,0,0,0,0,2,0,3,Houston Christian,TCU,FALSE,FALSE,2023-11-27,A
+NA,TEAM,NA,27,64,4,14,6,8,10,26,36,17,6,2,24,13,64,Houston Christian,TCU,FALSE,FALSE,2023-11-27,A

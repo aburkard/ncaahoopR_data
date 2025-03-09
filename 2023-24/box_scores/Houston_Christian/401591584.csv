@@ -1,0 +1,12 @@
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+4897352,T. Moore,19,0,3,0,2,3,3,0,0,0,2,1,0,2,0,3,Houston Christian,SMU,FALSE,TRUE,2023-12-19,A
+4707481,M. Imariagbe,26,6,11,0,1,0,3,4,8,12,2,1,1,4,1,12,Houston Christian,SMU,FALSE,TRUE,2023-12-19,A
+4897576,B. Maring,24,2,5,0,0,0,0,3,1,4,1,0,0,3,0,4,Houston Christian,SMU,FALSE,TRUE,2023-12-19,A
+5107306,Pi. Bazil,29,5,11,1,5,0,1,1,1,2,1,0,0,2,0,11,Houston Christian,SMU,FALSE,TRUE,2023-12-19,A
+4897953,M. Greene,35,4,16,2,7,2,2,0,3,3,2,2,1,4,0,12,Houston Christian,SMU,FALSE,TRUE,2023-12-19,A
+5176564,Po. Bazil,29,4,9,0,1,0,0,3,3,6,0,0,1,0,3,8,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A
+5107310,N. Hudson,6,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A
+5107309,C. Achara,10,0,1,0,0,0,0,0,0,0,0,1,0,3,1,0,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A
+5106783,D. Capriotti,21,1,7,1,4,0,0,0,2,2,0,2,0,1,0,3,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A
+4905452,N. Self,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A
+NA,TEAM,NA,22,64,4,21,5,9,15,21,36,8,7,4,19,5,53,Houston Christian,SMU,FALSE,FALSE,2023-12-19,A

@@ -1,12 +1,10 @@
-player_id,player,position,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
-4431818,T. Jackson,F,23,2,5,0,0,1,2,2,4,6,0,1,0,3,4,5,New Orleans,New Orleans,FALSE,TRUE,2024-03-04,H
-5176653,J. Short,G,32,0,2,0,0,2,2,1,3,4,2,1,0,0,2,2,New Orleans,New Orleans,FALSE,TRUE,2024-03-04,H
-4897328,J. Vincent,G,24,2,7,0,0,0,0,3,4,7,1,1,2,0,2,4,New Orleans,New Orleans,FALSE,TRUE,2024-03-04,H
-4897289,J. Johnson,G,39,6,23,2,7,2,2,0,0,0,3,0,0,4,2,16,New Orleans,New Orleans,FALSE,TRUE,2024-03-04,H
-4897169,K. Wilson-Rouse,G,27,2,7,2,3,0,0,2,1,3,0,2,0,6,1,6,New Orleans,New Orleans,FALSE,TRUE,2024-03-04,H
-4897329,D. Washington,F,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
-4593676,J. Glisson III,F,21,2,4,2,4,0,0,0,3,3,1,0,1,0,3,6,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
-5176654,C. Hart,G,20,3,8,1,2,8,8,2,5,7,0,0,0,0,1,15,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
-5107140,M. Jones,G,12,2,3,1,1,1,2,1,0,1,0,1,0,0,0,6,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
-4605907,K. Jenkins,G,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
-NA,TEAM,NA,NA,19,59,8,17,14,16,12,23,35,7,6,3,13,16,60,New Orleans,New Orleans,FALSE,FALSE,2024-03-04,H
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+5108973,G. Clark,32,9,17,0,0,3,4,3,7,10,2,2,0,1,2,21,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4897302,O. Dease,25,3,9,0,3,0,0,1,8,9,1,1,2,2,2,6,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+5107293,S. Giwa,21,2,4,0,0,0,0,2,3,5,1,0,0,0,2,4,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4897299,J. Roberts,22,1,4,1,3,1,2,0,1,1,1,0,0,1,1,4,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4431994,M. Humphrey,31,0,4,0,0,3,4,1,0,1,4,0,1,1,2,3,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+5108912,D. Prim,21,8,11,0,1,2,2,3,3,6,0,4,0,3,4,18,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+5176712,T. Washington Jr.,22,4,9,1,2,0,0,1,2,3,0,1,0,0,4,9,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+5176708,D. Wright-Forde,26,3,8,0,2,2,2,0,2,2,1,1,0,0,0,8,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+NA,TEAM,NA,30,66,2,11,11,14,13,28,41,10,9,3,9,17,73,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA

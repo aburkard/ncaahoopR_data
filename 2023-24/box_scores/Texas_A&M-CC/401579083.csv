@@ -1,11 +1,10 @@
-player_id,player,position,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
-5108917,B. Rowbury,F,33,6,9,0,0,3,6,2,3,5,3,2,0,1,1,15,SE Louisiana,SE Louisiana,FALSE,TRUE,2024-03-02,H
-4594148,N. Caldwell,G,38,3,11,0,4,1,2,0,3,3,1,1,0,1,3,7,SE Louisiana,SE Louisiana,FALSE,TRUE,2024-03-02,H
-4897313,R. McFarlane,G,37,8,13,3,6,3,4,0,8,8,0,1,0,1,2,22,SE Louisiana,SE Louisiana,FALSE,TRUE,2024-03-02,H
-4593700,R. Eastmond,G,38,2,6,0,2,1,1,1,2,3,8,3,0,8,1,5,SE Louisiana,SE Louisiana,FALSE,TRUE,2024-03-02,H
-4432150,A. Woodard,G,35,6,10,2,5,0,0,0,2,2,1,3,0,1,3,14,SE Louisiana,SE Louisiana,FALSE,TRUE,2024-03-02,H
-5176678,D. Canoville,F,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,SE Louisiana,SE Louisiana,FALSE,FALSE,2024-03-02,H
-4594150,M. Brackmann,C,4,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,SE Louisiana,SE Louisiana,FALSE,FALSE,2024-03-02,H
-5176674,K. Burton,G,9,2,6,1,4,0,1,0,0,0,1,1,1,0,0,5,SE Louisiana,SE Louisiana,FALSE,FALSE,2024-03-02,H
-4277829,A. Wilson,G,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,SE Louisiana,SE Louisiana,FALSE,FALSE,2024-03-02,H
-NA,TEAM,NA,NA,27,56,6,22,8,14,4,21,25,14,11,1,13,12,68,SE Louisiana,SE Louisiana,FALSE,FALSE,2024-03-02,H
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+5108973,G. Clark,34,10,14,0,1,1,1,1,5,6,2,1,0,2,3,21,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+5108912,D. Prim,23,1,4,1,3,2,2,1,7,8,1,0,0,2,1,5,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4897302,O. Dease,29,6,8,1,3,1,2,0,4,4,3,1,0,3,2,14,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4897299,J. Roberts,19,1,6,0,5,1,2,1,0,1,2,0,0,2,0,3,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+4431994,M. Humphrey,25,0,2,0,0,0,0,0,0,0,6,4,0,0,2,0,Texas A&M-Corpus Christi,NA,TRUE,TRUE,2025-03-09,NA
+5107293,S. Giwa,20,1,1,0,0,1,2,0,2,2,1,1,1,0,2,3,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+5176712,T. Washington Jr.,27,5,11,3,6,6,6,0,4,4,1,3,0,3,2,19,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+5176708,D. Wright-Forde,23,6,8,2,3,1,1,1,3,4,2,1,0,0,3,15,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA
+NA,TEAM,NA,30,54,7,21,13,16,4,27,31,18,11,1,13,15,80,Texas A&M-Corpus Christi,NA,TRUE,FALSE,2025-03-09,NA

@@ -1,0 +1,12 @@
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+4433091,L. Sutherland,33,3,10,1,3,2,2,2,1,3,0,1,0,1,2,9,Le Moyne,Georgetown,FALSE,TRUE,2023-11-07,A
+5177246,I. Salter,23,1,4,0,3,0,2,1,1,2,1,4,0,4,2,2,Le Moyne,Georgetown,FALSE,TRUE,2023-11-07,A
+5108058,K. Cleary,22,4,12,2,5,1,5,2,5,7,1,0,0,1,3,11,Le Moyne,Georgetown,FALSE,TRUE,2023-11-07,A
+4702786,D. Jones Jr.,26,2,8,1,5,4,4,0,1,1,1,0,0,0,0,9,Le Moyne,Georgetown,FALSE,TRUE,2023-11-07,A
+4432965,M. DePersia,27,3,5,1,1,1,2,1,2,3,1,2,0,2,5,8,Le Moyne,Georgetown,FALSE,TRUE,2023-11-07,A
+5177252,O. Owens,11,0,4,0,1,0,1,0,2,2,2,0,0,1,5,0,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A
+5177251,K. Thomas,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A
+5177250,T. Mosquera,21,4,10,0,6,0,0,0,2,2,3,1,0,1,3,8,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A
+5177247,AJ Dancler,17,1,6,1,4,0,0,0,3,3,1,0,0,1,2,3,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A
+4397701,N. McClure,19,3,6,1,3,0,0,3,2,5,1,2,0,0,0,7,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A
+NA,TEAM,NA,21,65,7,31,8,16,9,20,29,11,10,0,11,22,57,Le Moyne,Georgetown,FALSE,FALSE,2023-11-07,A

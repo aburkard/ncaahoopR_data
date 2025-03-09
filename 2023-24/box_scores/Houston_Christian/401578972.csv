@@ -1,0 +1,10 @@
+player_id,player,MIN,FGM,FGA,3PTM,3PTA,FTM,FTA,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,team,opponent,home,starter,date,location
+4707481,M. Imariagbe,34,7,12,0,1,4,4,5,6,11,1,1,0,4,2,18,Houston Christian,Nicholls,FALSE,TRUE,2024-02-03,A
+5176563,J. Alvarez,35,7,16,0,1,3,4,1,1,2,4,0,0,1,1,17,Houston Christian,Nicholls,FALSE,TRUE,2024-02-03,A
+4897576,B. Maring,32,2,4,0,0,3,4,0,2,2,1,1,0,0,4,7,Houston Christian,Nicholls,FALSE,TRUE,2024-02-03,A
+5106783,D. Capriotti,35,2,7,2,5,6,6,3,1,4,0,0,0,0,4,12,Houston Christian,Nicholls,FALSE,TRUE,2024-02-03,A
+4897953,M. Greene,36,4,13,4,8,1,2,0,5,5,1,1,0,2,4,13,Houston Christian,Nicholls,FALSE,TRUE,2024-02-03,A
+5176564,Po. Bazil,6,0,0,0,0,0,0,0,1,1,0,0,0,2,1,0,Houston Christian,Nicholls,FALSE,FALSE,2024-02-03,A
+5107310,N. Hudson,8,1,2,0,0,1,4,1,2,3,0,0,0,0,1,3,Houston Christian,Nicholls,FALSE,FALSE,2024-02-03,A
+5107306,Pi. Bazil,14,1,4,0,2,1,1,1,1,2,0,0,0,1,1,3,Houston Christian,Nicholls,FALSE,FALSE,2024-02-03,A
+NA,TEAM,NA,24,58,6,17,19,25,14,22,36,7,3,0,10,18,73,Houston Christian,Nicholls,FALSE,FALSE,2024-02-03,A
